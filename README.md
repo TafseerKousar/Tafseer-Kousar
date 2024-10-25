@@ -12,13 +12,13 @@
 
 ## 🔹 About Me
 - **Education**:
-  * B.Sc. Hons in Mathematics, Aligarh Muslim University
-  * M.Sc. in Data Science, Aligarh Muslim University
+  * B.Sc. Hons. Mathematics, Aligarh Muslim University
+  * M.Sc. Data Science, Aligarh Muslim University
 - **Skills**:
   - **Programming**: Python, SQL, R
   - **Data Science**: Data Cleaning, Modeling, Visualization, EDA, PCA, Predictive Modeling
   - **Tools**: Jupyter, MySQL, Power BI, Tableau, Excel
-- **Languages**: Fluent in English, Hindi, and Urdu
+- **Languages**: English, Hindi, and Urdu
 ---
 ---
 
